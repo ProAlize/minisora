@@ -1,8 +1,10 @@
 # How to contribute to the Mini Sora community
 
+English | [简体中文](./CONTRIBUTING_zh-CN.md)
+
 The Mini Sora open-source community is positioned as a community-driven initiative (**free of charge and devoid of any exploitation**) organized spontaneously by community members. 
 
-We really hope that you can contribute to the Mini Sora open source community and help us make it better than it is now!
+We really hope that you can contribute to the Mini Sora open source community and help us make it better than it is now! If you're making your first contribution to Mini Sora, you can check out the list of issues labeled [good first PR](https://github.com/mini-sora/minisora/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+PR%22).
 
 ## Submitting a Pull Request (PR)
 
@@ -94,8 +96,9 @@ The following types are reserved for future code collaboration if needed.
 
 ## Paper Naming Convention
 
-```
-# [Journal Name] Paper Title
-[CVPR 24] lovieChat: From Dense Token to Sparse Memory for Long VideoUnderstanding
-```
 
+> Format ——  [**Journal Name**] Paper Title
+>
+> Example1——[**CVPR 24** paper] **lovieChat**: From Dense Token to Sparse Memory for Long Video Understanding
+>
+> Example2——[**Paper**] **Sora**: Creating video from text

@@ -1,5 +1,7 @@
 ## Pull Request Description
 
+Please read [CONTRIBUTING](https://github.com/mini-sora/minisora/blob/main/.github/CONTRIBUTING.md) manual before submitting your PR.
+
 ### Title
 [Add/Update/Remove/Correct/Other] - Brief Description
 

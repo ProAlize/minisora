@@ -20,13 +20,13 @@
 
 <div align="center">
 
-[简体中文](./README.md) | [English](./README_EN.md)
+[English](README.md) | 简体中文
 
 </div>
 
 docs目录下存放的是minisora仓库相关的一些文档
 
-* [社区贡献说明文档](./CONTRIBUTING.md)
+* [社区贡献说明文档](../.github/CONTRIBUTING_zh-CN.md)
 
 
 [your-project-path]: mini-sora/minisora

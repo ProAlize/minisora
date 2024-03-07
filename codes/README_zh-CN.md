@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[English](README.md) | [简体中文](https://github.com/mini-sora/minisora/blob/main/README_CN.md)  
+[English](README.md) | 简体中文
 
 
 </div>
@@ -54,19 +54,6 @@
 
 ...
 
-## 其他项目
-
-- 非Sora一键文本生成视频 : [Text2Video](./Others/Text2Video.md)
-  - 项目介绍: 这是一个文本转视频的项目，通过输入文本，一键直接生成对应的视频。
-  - 技术栈：
-    - 文本处理，分割文本，生成 prompt
-    - 语音合成，将文本转换为语音 text to speech (TTS)，azure speech
-    - 图片生成，将文本转成图片，openai DALL·E
-    - 视频合成，将图片和语音合成视频，moviepy
-  - 项目要求:
-    - openai key，用 DALL·E 生成图片；
-    - azure speech key，将文本转成语音。
-  
 <!-- 
 **提交PR或者Issue后**, 可以申请加入MiniSora贡献者社群并申请加入 Sora 有关论文复现小组！
 
@@ -97,7 +84,7 @@
 
 我们非常希望你们能够为 Mini Sora 开源社区做出贡献，并且帮助我们把它做得比现在更好！
 
-具体查看[贡献指南](../docs/CONTRIBUTING.md)
+具体查看[贡献指南](../.github/CONTRIBUTING_zh-CN.md)
 
 ## 社区贡献者
 
